@@ -1,4 +1,4 @@
-# 🎮 Ciperab Studios  
+# Ciperab Studios  
 
 **Ciperab Studios** is a development group focused on building innovative solutions for multiplayer platforms and game modification environments.  
 We are passionate about programming, optimizing online experiences, and developing tools that empower communities.  
@@ -11,15 +11,14 @@ We are passionate about programming, optimizing online experiences, and developi
   - [SA:MP](https://sa-mp.mp/)  
   - [OMP](https://open.mp/)  
   - [RDR2](https://redm.net/)  
-- 🌐 **General development**: building custom applications and systems for clients, not limited to gaming.  
-- ⚡ **Server optimization and scalability** for multiplayer environments.  
-- 🔧 **Community tools**: scripts, APIs, control panels, bots, and automations.  
+- **General development**: building custom applications and systems for clients, not limited to gaming.  
+- **Server optimization and scalability** for multiplayer environments.  
+- **Community tools**: scripts, APIs, control panels, bots, and automations.  
 
 ## 🧠 Our Philosophy  
 
 We believe in **open collaboration**, **clean code**, and **clear documentation**.  
 Every project we release aims to be useful, maintainable, and easy to integrate.  
-<em>✨ If we can imagine it, we can develop it.</em>
 
 ---
 
