@@ -43,25 +43,11 @@ Meet the people behind **Ciperab Studios**:
       Chief Technology Officer
     </td>
     <td align="center">
-      <a href="">
-        <img src="https://cdn.discordapp.com/avatars/832371801992593499/dcd4eb2700ad6ecd11a2e3c7cd3d57d5.png?size=1024" width="80px;" alt="User 3"/><br />
-        <sub><b>Bjornfjell</b></sub>
-      </a><br />
-      Executive Producer
-    </td>
-    <td align="center">
       <a href="https://github.com/MartialWrapper">
         <img src="https://avatars.githubusercontent.com/u/46964556?v=4" width="80px;" alt="MartialWrapper"/><br />
         <sub><b>asgard</b></sub>
       </a><br />
-       Ex-Developer & Modder
-    </td>
-    <td align="center">
-      <a href="">
-        <img src="https://cdn.discordapp.com/avatars/1198274030365573130/8e3c6d55981797741b77c3925b9d26a3.png?size=1024" width="80px;" alt="Apolo"/><br />
-        <sub><b>Apolo</b></sub>
-      </a><br />
-      Project Management
+       3D Modder
     </td>
   </tr>
 </table>
