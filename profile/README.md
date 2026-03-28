@@ -33,14 +33,14 @@ Meet the people behind **Ciperab Studios**:
         <img src="https://avatars.githubusercontent.com/u/77559597?v=4" width="80px;" alt="cha5e369"/><br />
         <sub><b>cha5e369</b></sub>
       </a><br />
-      Founder & Developer
+      Founder & Software Developer
     </td>
     <td align="center">
       <a href="https://github.com/Frank441">
         <img src="https://avatars.githubusercontent.com/u/79960940?v=4" width="80px;" alt="Frank441"/><br />
         <sub><b>Frank441</b></sub>
       </a><br />
-      Chief Technology Officer
+      Co-Founder & Software Engineer
     </td>
     <td align="center">
       <a href="https://github.com/MartialWrapper">
