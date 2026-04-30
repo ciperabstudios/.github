@@ -61,9 +61,9 @@ Meet the people behind **Ciperab Studios**:
 Looking for a reliable development team for your project?  
 Whether you need **custom multiplayer scripts**, **server optimization**, or a **tailor-made application**, we can help bring your idea to life.  
 
-📧 **Business Inquiries:** [sales@ciperab.studio](mailto:sales@ciperab.studio)  
+📧 **Business Inquiries:** [contact@ciperab.com](mailto:contact@ciperab.com)  
 💬 **Discord:** [Join our server](https://discord.gg/K6y65SpW4c)  
-🌍 **Website:** [ciperab.studio](https://ciperab.studio)  
+🌍 **Website:** [ciperab.studio](https://ciperab.com/)  
 
 > 💡 Tell us about your project — we'll provide a personalized solution that fits your needs.
 
