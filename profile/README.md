@@ -1,69 +1,63 @@
-# Ciperab Studios  
+# Ciperab Studios
 
-**Ciperab Studios** is a development group focused on building innovative solutions for multiplayer platforms and game modification environments.  
-We are passionate about programming, optimizing online experiences, and developing tools that empower communities.  
+**Built with purpose. Engineered for scale.**
 
----
+Ciperab Studios is a software solutions studio helping businesses solve technology challenges and move forward with confidence. We design and build websites, custom software, APIs, and automations around the way each business actually works.
 
-## 🚀 What We Do  
+Our experience also includes multiplayer platforms and game modding communities—where we have built systems, tools, and experiences designed to serve real users.
 
-- 🛠 **Development for modding platforms**:  
-  - [SA:MP](https://sa-mp.mp/)  
-  - [OMP](https://open.mp/)  
-  - [RDR2](https://redm.net/)  
-- **General development**: building custom applications and systems for clients, not limited to gaming.  
-- **Server optimization and scalability** for multiplayer environments.  
-- **Community tools**: scripts, APIs, control panels, bots, and automations.  
+## What We Do
 
-## 🧠 Our Philosophy  
+- **Website design and development** — Professional, responsive websites and digital experiences.
+- **Custom software** — Applications and internal tools tailored to your business processes.
+- **Backend engineering and APIs** — Reliable systems that connect your products and services.
+- **Business automation** — Digital workflows that reduce repetitive work and make operations more efficient.
+- **Digital products and infrastructure** — The technical foundations to launch, operate, and grow your ideas.
+- **Multiplayer and modding projects** — Systems, tools, and community experiences for platforms such as [SA:MP](https://sa-mp.mp/), [open.mp](https://open.mp/), and [RedM](https://redm.net/).
 
-We believe in **open collaboration**, **clean code**, and **clear documentation**.  
-Every project we release aims to be useful, maintainable, and easy to integrate.  
+## How We Work
 
----
+We start by understanding your business, your processes, and the problem you want to solve. Then we shape a practical approach and build a solution around your needs—without adding unnecessary complexity.
 
-## 👥 Our Team  
+Every project is different. We provide a clear, personalized proposal based on its scope and goals.
 
-Meet the people behind **Ciperab Studios**:  
+## Our Philosophy
+
+**Built with purpose. Engineered for scale.**
+
+We believe good technology should solve a real problem today and remain useful as a business grows. We value thoughtful engineering, clear communication, and solutions that are built to be maintained.
+
+## Our Team
 
 <table>
   <tr>
     <td align="center">
       <a href="https://github.com/cha5e369">
-        <img src="https://avatars.githubusercontent.com/u/77559597?v=4" width="80px;" alt="cha5e369"/><br />
+        <img src="https://avatars.githubusercontent.com/u/77559597?v=4" width="80px" alt="cha5e369" /><br />
         <sub><b>cha5e369</b></sub>
       </a><br />
       Founder & Software Developer
     </td>
     <td align="center">
       <a href="https://github.com/Frank441">
-        <img src="https://avatars.githubusercontent.com/u/79960940?v=4" width="80px;" alt="Frank441"/><br />
+        <img src="https://avatars.githubusercontent.com/u/79960940?v=4" width="80px" alt="Frank441" /><br />
         <sub><b>Frank441</b></sub>
       </a><br />
       Co-Founder & Software Engineer
     </td>
     <td align="center">
       <a href="https://github.com/MartialWrapper">
-        <img src="https://avatars.githubusercontent.com/u/46964556?v=4" width="80px;" alt="MartialWrapper"/><br />
+        <img src="https://avatars.githubusercontent.com/u/46964556?v=4" width="80px" alt="MartialWrapper" /><br />
         <sub><b>asgard</b></sub>
       </a><br />
-       3D Modder
+      3D Modder
     </td>
   </tr>
 </table>
 
-> Together, we combine technical expertise with a deep understanding of multiplayer communities to deliver high-quality solutions.
+## Work With Us
 
----
+Have a project in mind? Tell us what you are trying to accomplish, and we’ll work with you on a solution that fits.
 
-## 📬 Work With Us  
-
-Looking for a reliable development team for your project?  
-Whether you need **custom multiplayer scripts**, **server optimization**, or a **tailor-made application**, we can help bring your idea to life.  
-
-📧 **Business Inquiries:** [contact@ciperab.com](mailto:contact@ciperab.com)  
-💬 **Discord:** [Join our server](https://discord.gg/K6y65SpW4c)  
-🌍 **Website:** [ciperab.studio](https://ciperab.com/)  
-
-> 💡 Tell us about your project — we'll provide a personalized solution that fits your needs.
-
+- **Website:** [www.ciperab.com](https://www.ciperab.com/)
+- **Business inquiries:** [contact@ciperab.com](mailto:contact@ciperab.com)
